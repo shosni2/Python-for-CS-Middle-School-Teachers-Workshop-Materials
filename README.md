@@ -10,5 +10,5 @@ These notebooks were used as the hands-on portion of the 2024 CS4MS workshop.
 
 ## 📊 Workshop Slides
 
-- [2024 CS4MS Workshop Slides (PPTX)](./CS4MS_Workshop_2024.pptx)
+- [📥 Download 2024 CS4MS Workshop Slides (PPTX)](./CS4MS_Workshop_2024.pptx)
 
